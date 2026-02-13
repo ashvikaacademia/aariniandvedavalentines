@@ -4,7 +4,7 @@ from datetime import date
 import time 
 
 NAME="Veda"
-MESSAGE=""
+MESSAGE="I saw you at the coaching and then I saw your req on my instagram, do you know I was sooo happy? One day I accidentally replied to your story and then we started talking and then eventually fell in love <3 You make me feel sooo loved and cared about and always knows what I need. That's something I really love about you babe. I also love how you always get me flowers even when you see some trees. I want to celebrate many more days with you, create countless new memories and keep choosing you every single day. Happy Valentine’s Day my love. Forever yours."
 year=2025
 month=6
 day=23
